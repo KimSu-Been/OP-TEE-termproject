@@ -1,3 +1,3 @@
 # OP-TEE-termproject
 
-TEEncrypt
+TEEencrypt
